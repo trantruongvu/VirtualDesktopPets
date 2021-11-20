@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: 8034d94d53030924bbcebd45f81af08c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8564647962766380863
+    second: wolf-walk-down_0
+  - first:
+      213: 7022639601099240966
+    second: wolf-walk-down_1
+  - first:
+      213: -7674039859568079461
+    second: wolf-walk-down_2
+  - first:
+      213: -1999546977985196955
+    second: wolf-walk-down_3
+  - first:
+      213: -8058819458771941658
+    second: wolf-walk-down_4
+  - first:
+      213: -5159157164388262947
+    second: wolf-walk-down_5
+  - first:
+      213: 3015042699003709684
+    second: wolf-walk-down_6
+  - first:
+      213: -4316627588072926093
+    second: wolf-walk-down_7
+  - first:
+      213: -4414568775102147990
+    second: wolf-walk-down_8
+  - first:
+      213: 2117701576193012580
+    second: wolf-walk-down_9
+  - first:
+      213: -2568050507413521240
+    second: wolf-walk-down_10
+  - first:
+      213: -3820961749088131011
+    second: wolf-walk-down_11
+  - first:
+      213: 4532699915503438178
+    second: wolf-walk-down_12
+  - first:
+      213: 2448073931028880629
+    second: wolf-walk-down_13
+  - first:
+      213: -6628879752783218702
+    second: wolf-walk-down_14
+  - first:
+      213: -8950660252952501114
+    second: wolf-walk-down_15
+  - first:
+      213: -730226645224484596
+    second: wolf-walk-down_16
+  - first:
+      213: 6857923650386281713
+    second: wolf-walk-down_17
+  - first:
+      213: -1654986823077455884
+    second: wolf-walk-down_18
+  - first:
+      213: -1969788718178920951
+    second: wolf-walk-down_19
+  - first:
+      213: 2729583585391132982
+    second: wolf-walk-down_20
+  - first:
+      213: -8139309984574228766
+    second: wolf-walk-down_21
+  - first:
+      213: 1578014598178061055
+    second: wolf-walk-down_22
+  - first:
+      213: -1719557993320164492
+    second: wolf-walk-down_23
+  - first:
+      213: 687058970340640655
+    second: wolf-walk-down_24
+  - first:
+      213: -5760622654589238812
+    second: wolf-walk-down_25
+  - first:
+      213: -4046274780770503289
+    second: wolf-walk-down_26
+  - first:
+      213: -5662145620353850142
+    second: wolf-walk-down_27
+  - first:
+      213: 5762522548548904537
+    second: wolf-walk-down_28
+  - first:
+      213: -7154664754652960548
+    second: wolf-walk-down_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wolf-walk-down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 925
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f86f6d1fdbbd670800000000000000
+      internalID: 8564647962766380863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 925
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6067c19728d657160800000000000000
+      internalID: 7022639601099240966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 925
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d81421865508590800000000000000
+      internalID: -7674039859568079461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 925
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c8c791e9e2044e0800000000000000
+      internalID: -1999546977985196955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_4
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 925
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e684e25662592090800000000000000
+      internalID: -8058819458771941658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbd934b4edf668b0800000000000000
+      internalID: -5159157164388262947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 740
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f840c04c5597d920800000000000000
+      internalID: 3015042699003709684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 740
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374134144124814c0800000000000000
+      internalID: -4316627588072926093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_8
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 740
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a625183a61d4cb2c0800000000000000
+      internalID: -4414568775102147990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_9
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 740
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463f44d0d56936d10800000000000000
+      internalID: 2117701576193012580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 555
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acfa5c6ba37c5cd0800000000000000
+      internalID: -2568050507413521240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 555
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d382f35988739fac0800000000000000
+      internalID: -3820961749088131011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_12
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 555
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2698601de8267ee30800000000000000
+      internalID: 4532699915503438178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 555
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcded2154e49f120800000000000000
+      internalID: 2448073931028880629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_14
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 555
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7b3947cfc7104a0800000000000000
+      internalID: -6628879752783218702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684ee8d2cedd8c380800000000000000
+      internalID: -8950660252952501114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 370
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c019edd2cb6bdd5f0800000000000000
+      internalID: -730226645224484596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_17
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 370
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f44606a93d3c2f50800000000000000
+      internalID: 6857923650386281713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_18
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 370
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7148eb04e4809e0800000000000000
+      internalID: -1654986823077455884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_19
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 370
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9069f52e897e9a4e0800000000000000
+      internalID: -1969788718178920951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631c9f71fcd61e520800000000000000
+      internalID: 2729583585391132982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 185
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6b9a461bc5b0f80800000000000000
+      internalID: -8139309984574228766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_22
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 185
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffab8c69aeb36e510800000000000000
+      internalID: 1578014598178061055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_23
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 185
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473d77d9d17e228e0800000000000000
+      internalID: -1719557993320164492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_24
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 185
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8746ea4e7ce88900800000000000000
+      internalID: 687058970340640655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1042c77382e00b0800000000000000
+      internalID: -5760622654589238812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7857d84668eb8d7c0800000000000000
+      internalID: -4046274780770503289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_27
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e46640ce840c61b0800000000000000
+      internalID: -5662145620353850142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_28
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956af6c0ab798ff40800000000000000
+      internalID: 5762522548548904537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-walk-down_29
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 0
+        width: 143
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd827eb005685bc90800000000000000
+      internalID: -7154664754652960548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

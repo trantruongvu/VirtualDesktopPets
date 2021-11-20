@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: 9df390e0321fcb140979945ec1c25d93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7432264003634134747
+    second: wolf-idle-stand-1_0
+  - first:
+      213: 7334523565467614181
+    second: wolf-idle-stand-1_1
+  - first:
+      213: 8338655700829084999
+    second: wolf-idle-stand-1_2
+  - first:
+      213: 6983347983702013008
+    second: wolf-idle-stand-1_3
+  - first:
+      213: -255777047120970080
+    second: wolf-idle-stand-1_4
+  - first:
+      213: 9047713269892999002
+    second: wolf-idle-stand-1_5
+  - first:
+      213: -646418766581971481
+    second: wolf-idle-stand-1_6
+  - first:
+      213: 4173414356522588886
+    second: wolf-idle-stand-1_7
+  - first:
+      213: -6748311432479832096
+    second: wolf-idle-stand-1_8
+  - first:
+      213: 7443912407302481367
+    second: wolf-idle-stand-1_9
+  - first:
+      213: -3226129134578691304
+    second: wolf-idle-stand-1_10
+  - first:
+      213: 8896873584429869832
+    second: wolf-idle-stand-1_11
+  - first:
+      213: 2719446476717098797
+    second: wolf-idle-stand-1_12
+  - first:
+      213: -4914707605526372024
+    second: wolf-idle-stand-1_13
+  - first:
+      213: -8135058059143337633
+    second: wolf-idle-stand-1_14
+  - first:
+      213: 4523120111933950175
+    second: wolf-idle-stand-1_15
+  - first:
+      213: 3706118428651489517
+    second: wolf-idle-stand-1_16
+  - first:
+      213: 7055800020026726702
+    second: wolf-idle-stand-1_17
+  - first:
+      213: -3552151696078889836
+    second: wolf-idle-stand-1_18
+  - first:
+      213: 7189685404661913706
+    second: wolf-idle-stand-1_19
+  - first:
+      213: -2915150053924601921
+    second: wolf-idle-stand-1_20
+  - first:
+      213: 748503920932347976
+    second: wolf-idle-stand-1_21
+  - first:
+      213: 1078648461753676111
+    second: wolf-idle-stand-1_22
+  - first:
+      213: -1875901252209616201
+    second: wolf-idle-stand-1_23
+  - first:
+      213: 2872278851163836506
+    second: wolf-idle-stand-1_24
+  - first:
+      213: -6706055110943526415
+    second: wolf-idle-stand-1_25
+  - first:
+      213: 5534819890966126203
+    second: wolf-idle-stand-1_26
+  - first:
+      213: 2641136388749350012
+    second: wolf-idle-stand-1_27
+  - first:
+      213: -8482525617195281988
+    second: wolf-idle-stand-1_28
+  - first:
+      213: -8925599306710612423
+    second: wolf-idle-stand-1_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdef885cbb4b42760800000000000000
+      internalID: 7432264003634134747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 920
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebbd64a25679c560800000000000000
+      internalID: 7334523565467614181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 920
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d14380e2bd8b370800000000000000
+      internalID: 8338655700829084999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 920
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054bf77edf5d9e060800000000000000
+      internalID: 6983347983702013008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_4
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 920
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aef7ac712c437cf0800000000000000
+      internalID: -255777047120970080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a576f89384fef8d70800000000000000
+      internalID: 9047713269892999002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 736
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e54cb18e857707f0800000000000000
+      internalID: -646418766581971481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 736
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da5b0dde32fae930800000000000000
+      internalID: 4173414356522588886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_8
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 736
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e70559918e2952a0800000000000000
+      internalID: -6748311432479832096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_9
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 736
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5236815e61e4760800000000000000
+      internalID: 7443912407302481367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81316e515ac7a33d0800000000000000
+      internalID: -3226129134578691304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_11
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 552
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80baf7b236b087b70800000000000000
+      internalID: 8896873584429869832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_12
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 552
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27096e892a6db520800000000000000
+      internalID: 2719446476717098797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_13
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 552
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841a0b5d8737bcbb0800000000000000
+      internalID: -4914707605526372024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_14
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 552
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59259debc77a1f80800000000000000
+      internalID: -8135058059143337633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd88f3cf6c955ce30800000000000000
+      internalID: 4523120111933950175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_16
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 368
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de80d433317ce6330800000000000000
+      internalID: 3706118428651489517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_17
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 368
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2913e72cbc3be160800000000000000
+      internalID: 7055800020026726702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_18
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 368
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c9aee3ad834bec0800000000000000
+      internalID: -3552151696078889836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_19
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 368
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a681faf68c4e6c360800000000000000
+      internalID: 7189685404661913706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbffcd8987e4b87d0800000000000000
+      internalID: -2915150053924601921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_21
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 184
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840e820b958336a00800000000000000
+      internalID: 748503920932347976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_22
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 184
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f417950af0128fe00800000000000000
+      internalID: 1078648461753676111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_23
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 184
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bad55400c577f5e0800000000000000
+      internalID: -1875901252209616201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_24
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 184
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50dc7ba5626cd720800000000000000
+      internalID: 2872278851163836506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1b404286e4fe2a0800000000000000
+      internalID: -6706055110943526415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_26
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e5dc8bd51afcc40800000000000000
+      internalID: 5534819890966126203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_27
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7453ce5d8337a420800000000000000
+      internalID: 2641136388749350012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_28
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb19cecb4e3084a80800000000000000
+      internalID: -8482525617195281988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-idle-stand-1_29
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9368a0c68b6e12480800000000000000
+      internalID: -8925599306710612423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

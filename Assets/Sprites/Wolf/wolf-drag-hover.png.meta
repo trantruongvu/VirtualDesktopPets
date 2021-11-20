@@ -1,0 +1,1088 @@
+fileFormatVersion: 2
+guid: 36870bb0dc5e0614abea2e7a78e5f712
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8509934326642139413
+    second: wolf-drag-hover_0
+  - first:
+      213: 4703497811678996892
+    second: wolf-drag-hover_1
+  - first:
+      213: 2826257297713398194
+    second: wolf-drag-hover_2
+  - first:
+      213: -3082278241041016275
+    second: wolf-drag-hover_3
+  - first:
+      213: -3595454018868291406
+    second: wolf-drag-hover_4
+  - first:
+      213: 4762058397483450119
+    second: wolf-drag-hover_5
+  - first:
+      213: 4759178895896846503
+    second: wolf-drag-hover_6
+  - first:
+      213: 3780013343892698642
+    second: wolf-drag-hover_7
+  - first:
+      213: 3364280663089362675
+    second: wolf-drag-hover_8
+  - first:
+      213: -5177535383119026406
+    second: wolf-drag-hover_9
+  - first:
+      213: 7183077202115161563
+    second: wolf-drag-hover_10
+  - first:
+      213: 3291243548708219656
+    second: wolf-drag-hover_11
+  - first:
+      213: -1078638518265981485
+    second: wolf-drag-hover_12
+  - first:
+      213: -5807243433039377219
+    second: wolf-drag-hover_13
+  - first:
+      213: 7517013562550837161
+    second: wolf-drag-hover_14
+  - first:
+      213: -6543262339516110583
+    second: wolf-drag-hover_15
+  - first:
+      213: 8978387964563641632
+    second: wolf-drag-hover_16
+  - first:
+      213: 6341145356762708873
+    second: wolf-drag-hover_17
+  - first:
+      213: -8125215182357440637
+    second: wolf-drag-hover_18
+  - first:
+      213: -9076704999249873721
+    second: wolf-drag-hover_19
+  - first:
+      213: -5906833596704658277
+    second: wolf-drag-hover_20
+  - first:
+      213: 6579850744317964662
+    second: wolf-drag-hover_21
+  - first:
+      213: 4652033246455274977
+    second: wolf-drag-hover_22
+  - first:
+      213: 7496644068424945473
+    second: wolf-drag-hover_23
+  - first:
+      213: 687243194694570445
+    second: wolf-drag-hover_24
+  - first:
+      213: 5331207539905517847
+    second: wolf-drag-hover_25
+  - first:
+      213: 6338389384689479088
+    second: wolf-drag-hover_26
+  - first:
+      213: -454740969532531824
+    second: wolf-drag-hover_27
+  - first:
+      213: -7761140295011172405
+    second: wolf-drag-hover_28
+  - first:
+      213: 5598696086904374962
+    second: wolf-drag-hover_29
+  - first:
+      213: -1681350050439929538
+    second: wolf-drag-hover_30
+  - first:
+      213: -6112187080927729825
+    second: wolf-drag-hover_31
+  - first:
+      213: 6478779460698949595
+    second: wolf-drag-hover_32
+  - first:
+      213: 1550547981554653008
+    second: wolf-drag-hover_33
+  - first:
+      213: 8175145980069282281
+    second: wolf-drag-hover_34
+  - first:
+      213: -8775883528048003134
+    second: wolf-drag-hover_35
+  - first:
+      213: 7013421634324698067
+    second: wolf-drag-hover_36
+  - first:
+      213: 8545150615453573811
+    second: wolf-drag-hover_37
+  - first:
+      213: -8310549587733397594
+    second: wolf-drag-hover_38
+  - first:
+      213: -3738846199251142264
+    second: wolf-drag-hover_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wolf-drag-hover_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1295
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee979641d3a6e980800000000000000
+      internalID: -8509934326642139413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1295
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9924fae65e264140800000000000000
+      internalID: 4703497811678996892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1295
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b10012c902e83720800000000000000
+      internalID: 2826257297713398194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_3
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1295
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a95d7354c8935d0800000000000000
+      internalID: -3082278241041016275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_4
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1295
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8da1f8e916a1ec0800000000000000
+      internalID: -3595454018868291406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1110
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fbaadc1ea361240800000000000000
+      internalID: 4762058397483450119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1110
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0a7789dfffb0240800000000000000
+      internalID: 4759178895896846503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1110
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216f5f0eb1e457430800000000000000
+      internalID: 3780013343892698642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_8
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1110
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f63828307350be20800000000000000
+      internalID: 3364280663089362675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_9
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1110
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17ac253003b528b0800000000000000
+      internalID: -5177535383119026406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 925
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdde74268aa6fa360800000000000000
+      internalID: 7183077202115161563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 925
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bac0ed198dcad20800000000000000
+      internalID: 3291243548708219656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_12
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 925
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5d3b58bf7e701f0800000000000000
+      internalID: -1078638518265981485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_13
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 925
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcc771add6886fa0800000000000000
+      internalID: -5807243433039377219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_14
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 925
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afd2af120cc15860800000000000000
+      internalID: 7517013562550837161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90963f4e199a135a0800000000000000
+      internalID: -6543262339516110583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_16
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 740
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0255573c844a99c70800000000000000
+      internalID: 8978387964563641632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_17
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 740
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b75faea16400850800000000000000
+      internalID: 6341145356762708873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_18
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 740
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38759f347df6d3f80800000000000000
+      internalID: -8125215182357440637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_19
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 740
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4f2b4c4e0190280800000000000000
+      internalID: -9076704999249873721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 555
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c6319b326b60ea0800000000000000
+      internalID: -5906833596704658277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 555
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6717922f363505b50800000000000000
+      internalID: 6579850744317964662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_22
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 555
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed164217975f8040800000000000000
+      internalID: 4652033246455274977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_23
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 555
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f0202bf0e690860800000000000000
+      internalID: 7496644068424945473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_24
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 555
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1131e5b04998900800000000000000
+      internalID: 687243194694570445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719d3f7f2014cf940800000000000000
+      internalID: 5331207539905517847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_26
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 370
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bde58a209b76f750800000000000000
+      internalID: 6338389384689479088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_27
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 370
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b523e5f7f60b9f0800000000000000
+      internalID: -454740969532531824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_28
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 370
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf73ef9504ea4490800000000000000
+      internalID: -7761140295011172405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_29
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 370
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b60e498d6092bd40800000000000000
+      internalID: 5598696086904374962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31617c8905aaa8e0800000000000000
+      internalID: -1681350050439929538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 185
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f572290db362d2ba0800000000000000
+      internalID: -6112187080927729825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_32
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 185
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7ce0de79f39e950800000000000000
+      internalID: 6478779460698949595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_33
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 185
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05793cf8c27a48510800000000000000
+      internalID: 1550547981554653008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_34
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 185
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e10ef084f3f37170800000000000000
+      internalID: 8175145980069282281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c73f788d6cc53680800000000000000
+      internalID: -8775883528048003134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_36
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d396f551dda45160800000000000000
+      internalID: 7013421634324698067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_37
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2225ae539769670800000000000000
+      internalID: 8545150615453573811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_38
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 0
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afb1ee5e2ffaac80800000000000000
+      internalID: -8310549587733397594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-drag-hover_39
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 0
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889f0d7e033fc1cc0800000000000000
+      internalID: -3738846199251142264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

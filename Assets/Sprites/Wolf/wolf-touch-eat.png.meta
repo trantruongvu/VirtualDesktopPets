@@ -1,0 +1,1928 @@
+fileFormatVersion: 2
+guid: 705fabbfeb205674db709b593e657eab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2740242056433706234
+    second: wolf-touch-eat_0
+  - first:
+      213: 8428238379294314360
+    second: wolf-touch-eat_1
+  - first:
+      213: 1730075718759964833
+    second: wolf-touch-eat_2
+  - first:
+      213: 1990492820200823582
+    second: wolf-touch-eat_3
+  - first:
+      213: -2070727785652411315
+    second: wolf-touch-eat_4
+  - first:
+      213: 7471215543466200164
+    second: wolf-touch-eat_5
+  - first:
+      213: -689383816321893119
+    second: wolf-touch-eat_6
+  - first:
+      213: 3375297112571678598
+    second: wolf-touch-eat_7
+  - first:
+      213: -992013451078552808
+    second: wolf-touch-eat_8
+  - first:
+      213: -5398839347616059357
+    second: wolf-touch-eat_9
+  - first:
+      213: -3686726802951924469
+    second: wolf-touch-eat_10
+  - first:
+      213: -2657174779963219938
+    second: wolf-touch-eat_11
+  - first:
+      213: -60257650765836847
+    second: wolf-touch-eat_12
+  - first:
+      213: -8406649358296136641
+    second: wolf-touch-eat_13
+  - first:
+      213: 7165770206140099373
+    second: wolf-touch-eat_14
+  - first:
+      213: 301493080479962372
+    second: wolf-touch-eat_15
+  - first:
+      213: 2832796432514003353
+    second: wolf-touch-eat_16
+  - first:
+      213: 3097776626408000672
+    second: wolf-touch-eat_17
+  - first:
+      213: -209176954179333096
+    second: wolf-touch-eat_18
+  - first:
+      213: -4920518653997465643
+    second: wolf-touch-eat_19
+  - first:
+      213: -2495368841467519329
+    second: wolf-touch-eat_20
+  - first:
+      213: 7091605469311958969
+    second: wolf-touch-eat_21
+  - first:
+      213: -6613952100553362644
+    second: wolf-touch-eat_22
+  - first:
+      213: -5576880308368758207
+    second: wolf-touch-eat_23
+  - first:
+      213: 4711433155816096718
+    second: wolf-touch-eat_24
+  - first:
+      213: -3347871701612098080
+    second: wolf-touch-eat_25
+  - first:
+      213: 153304602985301680
+    second: wolf-touch-eat_26
+  - first:
+      213: 5460751437702313538
+    second: wolf-touch-eat_27
+  - first:
+      213: 7192590991493269095
+    second: wolf-touch-eat_28
+  - first:
+      213: -3576642488645110037
+    second: wolf-touch-eat_29
+  - first:
+      213: 1245815638064031101
+    second: wolf-touch-eat_30
+  - first:
+      213: -6314546278758020993
+    second: wolf-touch-eat_31
+  - first:
+      213: -7287657766705278291
+    second: wolf-touch-eat_32
+  - first:
+      213: -2627915662947133593
+    second: wolf-touch-eat_33
+  - first:
+      213: -8543830236742851589
+    second: wolf-touch-eat_34
+  - first:
+      213: 4168894670515956175
+    second: wolf-touch-eat_35
+  - first:
+      213: 5146554968941484852
+    second: wolf-touch-eat_36
+  - first:
+      213: 964532627902677568
+    second: wolf-touch-eat_37
+  - first:
+      213: -6311343108222311512
+    second: wolf-touch-eat_38
+  - first:
+      213: 5099728803510940774
+    second: wolf-touch-eat_39
+  - first:
+      213: 5813427278934104834
+    second: wolf-touch-eat_40
+  - first:
+      213: 485446159034983794
+    second: wolf-touch-eat_41
+  - first:
+      213: -279649238867293440
+    second: wolf-touch-eat_42
+  - first:
+      213: -2471548407715489070
+    second: wolf-touch-eat_43
+  - first:
+      213: -8162222623026925974
+    second: wolf-touch-eat_44
+  - first:
+      213: -3496128624767451085
+    second: wolf-touch-eat_45
+  - first:
+      213: 6762109350618661832
+    second: wolf-touch-eat_46
+  - first:
+      213: 8478418579791296120
+    second: wolf-touch-eat_47
+  - first:
+      213: -959133644903848742
+    second: wolf-touch-eat_48
+  - first:
+      213: 2534153517117595467
+    second: wolf-touch-eat_49
+  - first:
+      213: -4955925107140334920
+    second: wolf-touch-eat_50
+  - first:
+      213: 2972871647957011038
+    second: wolf-touch-eat_51
+  - first:
+      213: 5144112138500614719
+    second: wolf-touch-eat_52
+  - first:
+      213: -2543129728127231883
+    second: wolf-touch-eat_53
+  - first:
+      213: -740949760051055775
+    second: wolf-touch-eat_54
+  - first:
+      213: -2412303357892053740
+    second: wolf-touch-eat_55
+  - first:
+      213: -6688981039152121329
+    second: wolf-touch-eat_56
+  - first:
+      213: 7726402928712621014
+    second: wolf-touch-eat_57
+  - first:
+      213: 1389838586871350378
+    second: wolf-touch-eat_58
+  - first:
+      213: -2127570985106349545
+    second: wolf-touch-eat_59
+  - first:
+      213: -5445471139953993553
+    second: wolf-touch-eat_60
+  - first:
+      213: -6112712395625795196
+    second: wolf-touch-eat_61
+  - first:
+      213: 2671650769066966857
+    second: wolf-touch-eat_62
+  - first:
+      213: -8597769827269851583
+    second: wolf-touch-eat_63
+  - first:
+      213: -4596437903648451386
+    second: wolf-touch-eat_64
+  - first:
+      213: -7802512732580499799
+    second: wolf-touch-eat_65
+  - first:
+      213: 6791339569037996877
+    second: wolf-touch-eat_66
+  - first:
+      213: -5433844116809720313
+    second: wolf-touch-eat_67
+  - first:
+      213: -2859048011141370262
+    second: wolf-touch-eat_68
+  - first:
+      213: -3523507565405061896
+    second: wolf-touch-eat_69
+  - first:
+      213: -3329658748698844056
+    second: wolf-touch-eat_70
+  - first:
+      213: -6266936616126508782
+    second: wolf-touch-eat_71
+  - first:
+      213: 6794726625436461982
+    second: wolf-touch-eat_72
+  - first:
+      213: -2200197604879454811
+    second: wolf-touch-eat_73
+  - first:
+      213: -8558516108131279368
+    second: wolf-touch-eat_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wolf-touch-eat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2590
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af42154c1ab470620800000000000000
+      internalID: 2740242056433706234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2590
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fc628b62e17f470800000000000000
+      internalID: 8428238379294314360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2590
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0673b23b6720810800000000000000
+      internalID: 1730075718759964833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2590
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b19048ca6af9b10800000000000000
+      internalID: 1990492820200823582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_4
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2590
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4428a5dc0c4343e0800000000000000
+      internalID: -2070727785652411315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2405
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c0eacd3f61fa760800000000000000
+      internalID: 7471215543466200164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2405
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dfa325211de66f0800000000000000
+      internalID: -689383816321893119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2405
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f8c3e37d677de20800000000000000
+      internalID: 3375297112571678598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2405
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813bd0ca509ab32f0800000000000000
+      internalID: -992013451078552808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_9
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2405
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32071f5b7387315b0800000000000000
+      internalID: -5398839347616059357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2220
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05932e718d16dcc0800000000000000
+      internalID: -3686726802951924469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2220
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e106a2ead91df1bd0800000000000000
+      internalID: -2657174779963219938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_12
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2220
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd4a136cfbe92ff0800000000000000
+      internalID: -60257650765836847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_13
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2220
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f344e7fe2f4955b80800000000000000
+      internalID: -8406649358296136641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_14
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2220
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bee0f590ee17360800000000000000
+      internalID: 7165770206140099373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2035
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4051f3cfb5e1f2400800000000000000
+      internalID: 301493080479962372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_16
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2035
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991bdf8b85d105720800000000000000
+      internalID: 2832796432514003353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2035
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac8e82dd638dfa20800000000000000
+      internalID: 3097776626408000672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_18
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2035
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81451fe1baad81df0800000000000000
+      internalID: -209176954179333096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_19
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2035
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df3ccdaa5ec6bbb0800000000000000
+      internalID: -4920518653997465643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1850
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e10cc724bae5dd0800000000000000
+      internalID: -2495368841467519329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_21
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1850
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf7e85f9917a6260800000000000000
+      internalID: 7091605469311958969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_22
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1850
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2371155b958634a0800000000000000
+      internalID: -6613952100553362644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1850
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a2fc838e0fa92b0800000000000000
+      internalID: -5576880308368758207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_24
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1850
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec38a633e7f526140800000000000000
+      internalID: 4711433155816096718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1665
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed04d7dc68f981d0800000000000000
+      internalID: -3347871701612098080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_26
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1665
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b60f5369b5a02200800000000000000
+      internalID: 153304602985301680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_27
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1665
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24633f2108c78cb40800000000000000
+      internalID: 5460751437702313538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_28
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1665
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76681a6166731d360800000000000000
+      internalID: 7192590991493269095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_29
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1665
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be63dbf3b963d5ec0800000000000000
+      internalID: -3576642488645110037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1480
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75ee62e8b60a4110800000000000000
+      internalID: 1245815638064031101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_31
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1480
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f780dd88d993e58a0800000000000000
+      internalID: -6314546278758020993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_32
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1480
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da25ae27fd90dda90800000000000000
+      internalID: -7287657766705278291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_33
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1480
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767d95ab0a4c78bd0800000000000000
+      internalID: -2627915662947133593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_34
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1480
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf363b5baa73e6980800000000000000
+      internalID: -8543830236742851589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1295
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc96f167d93ead930800000000000000
+      internalID: 4168894670515956175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_36
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1295
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b57c40a7c3c6740800000000000000
+      internalID: 5146554968941484852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_37
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1295
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042c9649055b26d00800000000000000
+      internalID: 964532627902677568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_38
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1295
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3accac1ea9968a0800000000000000
+      internalID: -6311343108222311512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_39
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1295
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664f818c350e5c640800000000000000
+      internalID: 5099728803510940774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1110
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bde603f417da050800000000000000
+      internalID: 5813427278934104834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_41
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1110
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275abdaa5b6acb600800000000000000
+      internalID: 485446159034983794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_42
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1110
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b4b97bf7c7e1cf0800000000000000
+      internalID: -279649238867293440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_43
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1110
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da9fe861db43bdd0800000000000000
+      internalID: -2471548407715489070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_44
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1110
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ea2d805c5f9be80800000000000000
+      internalID: -8162222623026925974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 925
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33049aff9814b7fc0800000000000000
+      internalID: -3496128624767451085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_46
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 925
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c309ff80a6d7dd50800000000000000
+      internalID: 6762109350618661832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_47
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 925
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876388917c469a570800000000000000
+      internalID: 8478418579791296120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_48
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 925
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4616b180970b2f0800000000000000
+      internalID: -959133644903848742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_49
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 925
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fd912823f1b2320800000000000000
+      internalID: 2534153517117595467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bae5776f54093bb0800000000000000
+      internalID: -4955925107140334920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_51
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 740
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ace4b4303c14920800000000000000
+      internalID: 2972871647957011038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_52
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 740
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3aaa1c3cbe836740800000000000000
+      internalID: 5144112138500614719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_53
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 740
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5789d318cfcf4bcd0800000000000000
+      internalID: -2543129728127231883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_54
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 740
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163feb37e1e97b5f0800000000000000
+      internalID: -740949760051055775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 555
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415bc5e70e6c58ed0800000000000000
+      internalID: -2412303357892053740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_56
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 555
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ab3044f27fb23a0800000000000000
+      internalID: -6688981039152121329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_57
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 555
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db14750782b93b60800000000000000
+      internalID: 7726402928712621014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_58
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 555
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a640991c4d2b94310800000000000000
+      internalID: 1389838586871350378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_59
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 555
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712ee4e16795972e0800000000000000
+      internalID: -2127570985106349545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8966c79dccd64b0800000000000000
+      internalID: -5445471139953993553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_61
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 370
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481f89476784b2ba0800000000000000
+      internalID: -6112712395625795196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_62
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 370
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fb22e283c931520800000000000000
+      internalID: 2671650769066966857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_63
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 370
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146420125e59ea880800000000000000
+      internalID: -8597769827269851583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_64
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 370
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c494e0641c2630c0800000000000000
+      internalID: -4596437903648451386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aea31b5208e7b390800000000000000
+      internalID: -7802512732580499799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_66
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 185
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4370912b5faf3e50800000000000000
+      internalID: 6791339569037996877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_67
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 185
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ed5b4c09b1794b0800000000000000
+      internalID: -5433844116809720313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_68
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 185
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ea1245bfe9258d0800000000000000
+      internalID: -2859048011141370262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_69
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 185
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc31a0a98cf91fc0800000000000000
+      internalID: -3523507565405061896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864a884620daac1d0800000000000000
+      internalID: -3329658748698844056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_71
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21114ede95e5709a0800000000000000
+      internalID: -6266936616126508782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_72
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b6707add7bb4e50800000000000000
+      internalID: 6794726625436461982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_73
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adae7d7fe35771e0800000000000000
+      internalID: -2200197604879454811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf-touch-eat_74
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 117
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd5062d1fa0a3980800000000000000
+      internalID: -8558516108131279368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
